@@ -1,0 +1,119 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch TreesEx4",
+      "request": "launch",
+      "mainClass": "Assignment2.TreesEx4",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch TreesEx3",
+      "request": "launch",
+      "mainClass": "Assignment2.TreesEx3",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch TreesEx2",
+      "request": "launch",
+      "mainClass": "Assignment2.TreesEx2",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch TreeEx1",
+      "request": "launch",
+      "mainClass": "Assignment2.TreeEx1",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Part1",
+      "request": "launch",
+      "mainClass": "Assignment1.Part1",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Tree",
+      "request": "launch",
+      "mainClass": "Assignment2.Tree",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch TreesEx6",
+      "request": "launch",
+      "mainClass": "Assignment2.TreesEx6",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch BinarySearchTree",
+      "request": "launch",
+      "mainClass": "BinarySearchTree",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch ListPhoneBook",
+      "request": "launch",
+      "mainClass": "ListPhoneBook",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch OrganizationStructure",
+      "request": "launch",
+      "mainClass": "OrganizationStructure",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Part1",
+      "request": "launch",
+      "mainClass": "Part1",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Part2",
+      "request": "launch",
+      "mainClass": "Part2",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Part3",
+      "request": "launch",
+      "mainClass": "Part3",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Tree",
+      "request": "launch",
+      "mainClass": "Tree",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
+      "name": "Launch TreesEx6",
+      "request": "launch",
+      "mainClass": "TreesEx6",
+      "projectName": "CareerPrep_231406a8"
+    }
+  ]
+}
