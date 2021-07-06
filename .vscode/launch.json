@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch GraphsEx1",
+      "request": "launch",
+      "mainClass": "Assignment2.GraphsEx1",
+      "projectName": "CareerPrep_231406a8"
+    },
+    {
+      "type": "java",
       "name": "Launch TreesEx4",
       "request": "launch",
       "mainClass": "Assignment2.TreesEx4",
